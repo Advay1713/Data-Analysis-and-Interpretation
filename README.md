@@ -1,4 +1,4 @@
-# Guide into the World of Machine Learning
+# Project: Guide into the World of Machine Learning
 
 This repository contains my work for the **WIDS (Winter School of Data Science) Winter Study Project**, titled *“Guide into the World of Machine Learning”*.  
 The project focuses on building a strong foundation in Python, data analysis, statistics, data visualization, and basic machine learning concepts, with an emphasis on understanding ideas from first principles.
